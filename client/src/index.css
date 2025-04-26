@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.content {
+    height: 80vh;
+}
+
+.navbar{
+    background-color: #0000004e !important;
+}
+
+.register-page{
+    /* display: flex;
+    align-items:center;
+    justify-content: center; */
+    height: 90vh;
+}
+
+/* Transaction Page */
+
+.filters{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    box-shadow: 0 0 3px gray;
+}
+
+.active-icon{
+    color: #034479;
+}
+
+.inactive-icon{
+    color: #000
+}
